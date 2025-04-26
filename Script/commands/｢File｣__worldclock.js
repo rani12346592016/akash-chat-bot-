@@ -1,8 +1,8 @@
 module.exports.config = {
-  name: "worldclock",
+  name: "AKASH-BOSS ",
   version: "2.0.0",
   hasPermssion: 0,
-  credits: "𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁",
+  credits: "gale buzzes",
   description: "View the dates and times of different countries",
   commandCategory: "system",
   usePrefix: false,

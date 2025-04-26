@@ -6,11 +6,11 @@ module.exports.config = {
   name: "Wallpaper",
   version: "1.0.0",
   hasPermission: 0,
-  credits: "Islamick Cyber Chat ",
+  credits: "Galebuzz Cyber Chat ",
   description: "ফোন ওয়ালপেপার",
   usages: "wallpaper [নাম]",
   commandCategory: "user",
-  cooldowns: 5
+  cooldowns: 1
 };
 
 module.exports.run = async ({ api, event, args }) => {
